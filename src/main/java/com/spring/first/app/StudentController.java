@@ -24,9 +24,9 @@ public class StudentController {
 		
 		List<Student> stuidents = new ArrayList<>();
 		stuidents.add(new Student("Surya", "Singe"));
-		stuidents.add(new Student("Kavya", "Singe"));
-		stuidents.add(new Student("Shivani", "Singe"));
-		stuidents.add(new Student("Soundarya", "Singe"));
+		stuidents.add(new Student("Nikhil", "jinge"));
+		stuidents.add(new Student("Ravi", "ramji"));
+		stuidents.add(new Student("Raju", "Singe"));
 		return stuidents;
 	}
 	
